@@ -1,4 +1,7 @@
 <div>
   <router-outlet></router-outlet>
+  <button [appButtonLoader2]="load2" color="primary" (click)="action2()" mat-raised-button>
+    Load full material
+  </button>
   <app-responsive-helper></app-responsive-helper>
 </div>

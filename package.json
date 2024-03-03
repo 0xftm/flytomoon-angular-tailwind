@@ -48,7 +48,8 @@
     "ng-apexcharts": "^1.7.1",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.14.2"
+    "zone.js": "~0.14.2",
+    "load-button-drctv": "1.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.2.0",

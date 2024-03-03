@@ -12,6 +12,17 @@ import { ResponsiveHelperComponent } from './shared/components/responsive-helper
 })
 export class AppComponent {
   title = 'Angular Tailwind';
-
+  delay: any;
+  delay2: any;
+  load = false;
+  load2 = false;
+  
   constructor(public themeService: ThemeService) {}
+
+  
+  action2() {
+    this.load2 = true;
+    if(this.delay2) { clearTimeout(this.delay2); }
+    this.delay2 = setTimeout(() => this.load2 = false, 2000);
+  }
 }
