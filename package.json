@@ -3,10 +3,10 @@
   "displayName": "Angular Tailwind edited by FLYTOMOON",
   "version": "0.4.1",
   "description": "Angular & Tailwind CSS Admin Dashboard Starter Kit, Free and Open Source",
-  "homepage": "https://github.com/flytomoon/flytomoon-angular-tailwind#readme",
+  "homepage": "https://github.com/0xftm/flytomoon-angular-tailwind#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flytomoon/flytomoon-angular-tailwind.git"
+    "url": "https://github.com/0xftm/flytomoon-angular-tailwind.git"
   },
   "keywords": [
     "angular",
@@ -18,7 +18,7 @@
   "author": "0xftm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flytomoon/flytomoon-angular-tailwind/issues"
+    "url": "https://github.com/0xftm/flytomoon-angular-tailwind/issues"
   },
   "scripts": {
     "ng": "ng",
@@ -49,7 +49,6 @@
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2",
-    "longpd-weather-lib": "1.0.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.2.0",

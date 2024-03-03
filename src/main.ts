@@ -6,7 +6,6 @@ import { AppComponent } from './app/app.component';
 import { AppRoutingModule } from './app/app-routing.module';
 import { BrowserModule, bootstrapApplication } from '@angular/platform-browser';
 import { provideAnimations } from '@angular/platform-browser/animations';
-const vsc = require("longpd-weather-lib"); 
  
 if (environment.production) {
   enableProdMode();
