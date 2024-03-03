@@ -31,7 +31,6 @@
     "prettier:staged": "pretty-quick --staged",
     "lint": "ng lint"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^17.2.2",
     "@angular/common": "^17.2.2",
