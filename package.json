@@ -17,6 +17,9 @@
   ],
   "author": "0xftm",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flytomoon/flytomoon-angular-tailwind/issues"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
